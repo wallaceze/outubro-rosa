@@ -94,4 +94,12 @@ nav ul {
 }
 nav ul a {
   color: white;
+}
+
+.box2 {
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  margin-top: 150px;
+  max-width: 100%;
 }/*# sourceMappingURL=style.css.map */
